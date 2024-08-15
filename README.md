@@ -1,1 +1,2 @@
 this is a tkinter project 
+A Registration page that has a Name, age, location as an input. once the details are entered there are various button where you can insert data into the database , you can see the last data by clicking to show last data button, there is show all data to view all data entered by the user, you can also import data into the excel format, There is a clear button to clear the data,and an exit button to exit from the page
